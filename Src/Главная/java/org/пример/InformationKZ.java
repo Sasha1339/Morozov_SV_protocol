@@ -18,7 +18,7 @@ public class InformationKZ {
 
     private double time;
 
-
+       //здесь не трогать
     @Override
     public String toString() {
         System.out.println("_________________________________________________________________________________________________________");
